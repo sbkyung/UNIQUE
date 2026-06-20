@@ -39,8 +39,18 @@ The current version of this repository is intended to provide access to pretrain
 ## Citation
 
 The manuscript is currently in revision. Citation information will be updated after publication.
+The implementation is based on publicly available architectures, including Choo et al. (2025) and Srivastava et al. (2024), with modifications described in the Methods section of the manuscript.
+
+References
+
+Choo, M., Jung, S., Im, J., & Han, D. (2025). CARE-SST: Context-aware reconstruction diffusion model for sea surface temperature. ISPRS Journal of Photogrammetry and Remote Sensing, 220, 454–472.
+
+Srivastava, P., Yang, R., Kerrigan, G., Dresdner, G., McGibbon, J., Bretherton, C. S., & Mandt, S. (2024). Precipitation downscaling with spatiotemporal video diffusion. Advances in Neural Information Processing Systems, 37, 56374–56400.
 
 ## Contact
 
 For questions, please contact: Bokyung Son (sbkyung0@unist.ac.kr)
+
+
+
 
