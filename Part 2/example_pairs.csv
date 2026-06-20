@@ -1,0 +1,2 @@
+tif_path,tif_path_t1,tif_path_t3,date_t1,date_t2,date_t3,doy_t1,doy_t2,doy_t3,vars_path
+GPP_M/Prediction_20220701.tif,GPP_M/Prediction_20220506.tif,GPP_M/Prediction_20221106.tif,2022-05-06,2022-07-01,2022-11-06,126,182,310,others/Additional_2022.tif
