@@ -7,10 +7,20 @@ This repository provides pretrained models and example codes for the paper:
 Bokyung Son*, Taejun Sung*, Sejeong Bae, Minki Choo, Jungho Im†, Yeonsu Lee, S.M. Sohel Rana, Dongjin Cho, Cheolhee Yoo, Jeonghyun Hong, Hojin Lee, Hyun Seok Kim
 
 
+## Important Notes
 
-UNIQUE is a framework for estimating gross primary productivity (GPP) at high spatiotemporal resolution by integrating MODIS and Landsat satellite observations. The final output of the framework is daily GPP at 30 m spatial resolution.
+The current version of this repository provides access to pretrained models and example code associated with the manuscript.
+Full documentation, cleaned and refined code, additional information, and citation details will be updated after publication.
+
+Pretrained models for the Part 2 model are now available at the following link:
+https://drive.google.com/file/d/19uR1-lkGHisuJhdruPyt1XaKDeQVfDGh/view?usp=drive_link
+
+Please note that this link will be updated to a more appropriate permanent address in a future release.
+
 
 ## Overview
+
+UNIQUE is a framework for estimating gross primary productivity (GPP) at high spatiotemporal resolution by integrating MODIS and Landsat satellite observations. The final output of the framework is daily GPP at 30 m spatial resolution.
 
 The UNIQUE framework consists of two main parts.
 
@@ -32,9 +42,7 @@ Part 2 fuses the Part 1 estimates to generate daily 30 m GPP.
 Part 2 uses image-based inputs derived from GPPM, GPPL, and auxiliary spatial information. The repository includes code related to the fusion models used in the manuscript, including U-SCALER.
 
 
-## Notes
 
-The current version of this repository is intended to provide access to pretrained models and example codes associated with the manuscript. Full documentation, additional examples, and citation information will be updated after publication.
 
 ## Citation
 
