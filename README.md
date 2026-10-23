@@ -44,9 +44,11 @@ Part 2 uses image-based inputs derived from GPPM, GPPL, and auxiliary spatial in
 ## Citation
 
 APA:
+
 Son, B., Sung, T., Bae, S., Choo, M., Im, J., Lee, Y., ... & Kim, H. S. (2026). UNIQUE: UNified, high-resolution Intelligent carbon QUantification and Explanation. Remote Sensing of Environment, 346, 115636.
 
 Other related references for model structure:
+
 Choo, M., Jung, S., Im, J., & Han, D. (2025). CARE-SST: Context-aware reconstruction diffusion model for sea surface temperature. ISPRS Journal of Photogrammetry and Remote Sensing, 220, 454–472.
 Srivastava, P., Yang, R., Kerrigan, G., Dresdner, G., McGibbon, J., Bretherton, C. S., & Mandt, S. (2024). Precipitation downscaling with spatiotemporal video diffusion. Advances in Neural Information Processing Systems, 37, 56374–56400.
 
