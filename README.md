@@ -2,7 +2,7 @@
 
 This repository provides pretrained models and example codes for the paper:
 
-**UNIQUE: UNified, High-resolution Intelligent Carbon QUantification and Explanation** (*In revision, Remote Sensing of Environment*)
+**UNIQUE: UNified, High-resolution Intelligent Carbon QUantification and Explanation** (*Remote Sensing of Environment*, 2026)
 
 Bokyung Son*, Taejun Sung*, Sejeong Bae, Minki Choo, Jungho Im†, Yeonsu Lee, S.M. Sohel Rana, Dongjin Cho, Cheolhee Yoo, Jeonghyun Hong, Hojin Lee, Hyun Seok Kim
 
@@ -10,12 +10,9 @@ Bokyung Son*, Taejun Sung*, Sejeong Bae, Minki Choo, Jungho Im†, Yeonsu Lee, S
 ## Important Notes
 
 The current version of this repository provides access to pretrained models and example code associated with the manuscript.
-Full documentation, cleaned and refined code, additional information, and citation details will be updated after publication.
 
 Pretrained models for the Part 2 model are now available at the following link:
 https://drive.google.com/file/d/19uR1-lkGHisuJhdruPyt1XaKDeQVfDGh/view?usp=drive_link
-
-Please note that this link will be updated to a more appropriate permanent address in a future release.
 
 
 ## Overview
@@ -46,13 +43,11 @@ Part 2 uses image-based inputs derived from GPPM, GPPL, and auxiliary spatial in
 
 ## Citation
 
-The manuscript is currently in revision. Citation information will be updated after publication.
-The implementation is based on publicly available architectures, including Choo et al. (2025) and Srivastava et al. (2024), with modifications described in the Methods section of the manuscript.
+APA:
+Son, B., Sung, T., Bae, S., Choo, M., Im, J., Lee, Y., ... & Kim, H. S. (2026). UNIQUE: UNified, high-resolution Intelligent carbon QUantification and Explanation. Remote Sensing of Environment, 346, 115636.
 
-References
-
+Other related references for model structure:
 Choo, M., Jung, S., Im, J., & Han, D. (2025). CARE-SST: Context-aware reconstruction diffusion model for sea surface temperature. ISPRS Journal of Photogrammetry and Remote Sensing, 220, 454–472.
-
 Srivastava, P., Yang, R., Kerrigan, G., Dresdner, G., McGibbon, J., Bretherton, C. S., & Mandt, S. (2024). Precipitation downscaling with spatiotemporal video diffusion. Advances in Neural Information Processing Systems, 37, 56374–56400.
 
 ## Contact
